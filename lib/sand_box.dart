@@ -7,6 +7,8 @@ class SandBox extends StatefulWidget {
   State<SandBox> createState() => _SandBoxState();
 }
 
+// Good Practice Tarek
+
 class _SandBoxState extends State<SandBox> {
   double _width = 200;
   double _opacity = 1;
